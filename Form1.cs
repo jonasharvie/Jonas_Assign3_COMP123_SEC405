@@ -21,8 +21,11 @@ namespace Jonas_Assign3_COMP123_SEC405
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            
             /*
-             * see Theatre lab 2 for how to get list
+             * TO DO
+             * create labels
+             * 
              */
             initializedGUI();
         }
@@ -47,8 +50,9 @@ namespace Jonas_Assign3_COMP123_SEC405
         {
             MessageBox.Show($"Key: {listBox1.SelectedItem.ToString()}");
             /*
-             * 
-             * 
+             * TO DO
+             * update info of all labels
+             * update picture
              */
         }
     }
